@@ -1,3 +1,5 @@
 import math
 minh = int(input())
-print(minh
+print(minh)
+
+print(1234)
